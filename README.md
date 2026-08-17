@@ -124,12 +124,6 @@ Random Forest Regressor
   <img src="images/old_vs_current_price.png" width="800">
 </p>
 
-### Product Size vs Price
-
-<p align="center">
-  <img src="images/size_price_relationship.png" width="800">
-</p>
-
 ### Price & Dimensions Correlation
 
 <p align="center">
