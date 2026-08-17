@@ -81,8 +81,11 @@ Random Forest Regressor
 Best parameters:
 
 ```text
+
 n_estimators = 200
+
 max_depth = None
+
 min_samples_leaf = 1
 
 ### Final Performance
