@@ -105,22 +105,84 @@ min_samples_leaf = 1
 | Height | 8.8% |
 | Additional colors | 1.8% |
 
-📊 Visualizations
+## 📊 Visualizations
 
-Number of products by category:
+### Number of Products by Category
 
-IKEA product price distribution:
+<p align="center">
+  <img src="images/category_distribution.png" width="800">
+</p>
 
-Log-transformed price distribution
-Old price vs current price
-Product size vs price
-Price & dimensions correlation
-Top designers
-Top product series
-Products by color availability
-Median price by color availability
-Online vs offline products
-Model comparison
-Random Forest cross-validation
+### IKEA Product Price Distribution
+
+<p align="center">
+  <img src="images/price_distribution.png" width="800">
+</p>
+
+### Old Price vs Current Price
+
+<p align="center">
+  <img src="images/old_vs_current_price.png" width="800">
+</p>
+
+### Product Size vs Price
+
+<p align="center">
+  <img src="images/size_price_relationship.png" width="800">
+</p>
+
+### Price & Dimensions Correlation
+
+<p align="center">
+  <img src="images/price_dimensions_correlation.png" width="600">
+</p>
+
+### Top 15 Designers by Number of Products
+
+<p align="center">
+  <img src="images/designers.png" width="800">
+</p>
+
+### Top 10 Product Series by Median Price
+
+<p align="center">
+  <img src="images/top_product_series.png" width="800">
+</p>
+
+### Products and Median Price by Color Availability
+
+<p align="center">
+  <img src="images/products_and_median_price_by_color.png" width="600">
+</p>
+
+### Online vs Offline Products
+
+<p align="center">
+  <img src="images/online_offline.png" width="600">
+</p>
+
+### Model Comparison — 5-Fold Cross-Validation
+
+<p align="center">
+  <img src="images/model_comparison.png" width="700">
+</p>
+
+### Random Forest Cross-Validation
+
+<p align="center">
+  <img src="images/cross_validation.png" width="700">
+</p>
+
+### Feature Importance
+
+<p align="center">
+  <img src="images/feature_importance.png" width="800">
+</p>
+
+### Actual vs Predicted IKEA Product Prices
+
+<p align="center">
+  <img src="images/actual_vs_predicted.png" width="800">
+</p>
 Feature importance
 Actual vs predicted prices
