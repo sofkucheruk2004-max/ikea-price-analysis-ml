@@ -183,5 +183,3 @@ Random Forest Regressor
 <p align="center">
   <img src="images/actual_vs_predicted.png" width="800">
 </p>
-Feature importance
-Actual vs predicted prices
